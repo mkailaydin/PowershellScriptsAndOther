@@ -10,7 +10,7 @@ Creation Date   = 12.09.2023
 $baseOU = "DC=aydin,DC=local"
 
 # OU Names
-$ouNames = @("IT", "Management","Finance","Production","Consultant","Technician")
+$ouNames = @("IT", "Management", "Finance", "Production", "Consultant", "Technician")
 
 # Base OU and sub OU's create process
 foreach ($ouName in $ouNames) {
