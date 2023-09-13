@@ -1,9 +1,20 @@
 <#
 =============================================================================================
-Author          = Mikail AYDIN
-Creation Date   = 12.09.2023
-
-============================================================================================
+Name = Cengiz YILMAZ
+Microsoft Certified Trainer (MCT) - Microsoft MVP
+Date = 18.08.2022
+www.cengizyilmaz.com.tr
+365gurusu.com
+www.cozumpark.com/author/cengizyilmaz
+=============================================================================================
+#>
+<#
+=============================================================================================
+Contributors : 
+        Name            : Mikail Aydın
+        Revision Date   : 12.09.2023
+=============================================================================================
+Original Script Address = https://cengizyilmaz.com.tr/exchange-server-2019-tls-yapilandirilmasi/
 #>
 
 
